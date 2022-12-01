@@ -11,3 +11,5 @@ This is an edit made within GitHub.com.
 Here's a new line added from Local.
 
 Another local line
+
+...and another
